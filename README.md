@@ -1,5 +1,6 @@
 # EC50_calculator
 Simple EC50 calculator as a Shiny app
+
 Developed by Lauren Neves (lneves23) and Srivats Venkataramanan (srivats-venkat)
 
 hosted at: 
