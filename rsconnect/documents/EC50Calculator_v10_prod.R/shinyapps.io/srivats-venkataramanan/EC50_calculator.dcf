@@ -5,10 +5,10 @@ account: srivats-venkataramanan
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4793538
-bundleId: 5110750
+bundleId: 5110766
 url: https://srivats-venkataramanan.shinyapps.io/EC50_calculator/
-when: 1633532981.42234
-lastSyncTime: 1633532981.42235
+when: 1633533284.60741
+lastSyncTime: 1633533284.60742
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: LICENSE|README.md
