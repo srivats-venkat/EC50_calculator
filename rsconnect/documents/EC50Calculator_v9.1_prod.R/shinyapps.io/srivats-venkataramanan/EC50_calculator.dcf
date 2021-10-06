@@ -1,0 +1,14 @@
+name: EC50_calculator
+title: EC50_calculator
+username:
+account: srivats-venkataramanan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4793538
+bundleId: 5106630
+url: https://srivats-venkataramanan.shinyapps.io/EC50_calculator/
+when: 1633446784.32914
+lastSyncTime: 1633446784.32915
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|README.md
